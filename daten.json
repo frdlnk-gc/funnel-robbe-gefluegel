@@ -1,0 +1,100 @@
+{
+ "firma": "Robbe Geflügelhaltung",
+ "stelle": "Produktionsleiter (m/w/d)",
+ "ort": "Voltlage",
+ "plz": "49599",
+ "branche": "landwirtschaft",
+ "farbe_primary": "#9A0C14",
+ "farbe_secondary": "#04B41C",
+ "region_badge": "Farmen in MV & Sachsen",
+ "benefit_top": "Dienstwagen inkl. Privatnutzung",
+ "benefits": [
+  "Unbefristete Festanstellung in Vollzeit mit flexiblen Arbeitszeiten",
+  "Dienstwagen inkl. Privatnutzung & angemessene Vergütung",
+  "Mobiles Arbeiten, moderne Arbeitsmittel & digitale Prozesse",
+  "Kollegiales Team, kurze Entscheidungswege & flache Hierarchien",
+  "Intensive Einarbeitung – auch bei Berufsstart oder Quereinstieg",
+  "Persönliche Weiterentwicklung in einem wachsenden Betrieb"
+ ],
+ "aufgaben": [
+  "Du führst und leitest das Farmpersonal auf mehreren Betrieben in Mecklenburg-Vorpommern und Sachsen fachlich an",
+  "Du überwachst und wertest Leistungskennzahlen und Herdendaten aus",
+  "Du sorgst für Tierwohl, Biosicherheit und beste Produktqualität",
+  "Du organisierst und optimierst die täglichen Arbeitsabläufe",
+  "Du setzt betriebliche Standards und Vorgaben um und leitest sie an",
+  "Du arbeitest eng mit der Betriebsleitung und weiteren Abteilungen zusammen"
+ ],
+ "anforderung": "Du hast eine abgeschlossene Ausbildung, ein Studium oder einen vergleichbaren Abschluss in Landwirtschaft oder Tierproduktion (Meister, Techniker, Bachelor, Master). Vorkenntnisse in der Geflügelhaltung sind schön, aber keine Voraussetzung – Berufsstart und Quereinstieg sind möglich. Du bist motiviert, organisierst dich selbst, bist reisebereit, hast technisches Verständnis und Interesse an modernen Produktionsprozessen und gehst sicher mit MS Office um.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landwirtschaft / Tierproduktion",
+   "icon": "🐔",
+   "qualifikationen": [
+    {
+     "label": "Meister oder Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Bachelor oder Master",
+     "icon": "🎓"
+    },
+    {
+     "label": "Abgeschlossene Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Berufsstart nach Abschluss",
+   "icon": "🚀",
+   "qualifikationen": [
+    {
+     "label": "Abschluss in Landwirtschaft / Tierproduktion",
+     "icon": "🎓"
+    },
+    {
+     "label": "Anderer Abschluss",
+     "icon": "📄"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich (Quereinstieg)",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Mit Erfahrung in der Geflügelhaltung",
+     "icon": "🐔"
+    },
+    {
+     "label": "Noch ohne Erfahrung in der Geflügelhaltung",
+     "icon": "💡"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "125",
+    "label": "Kollegen"
+   },
+   {
+    "zahl": "seit 1932",
+    "label": "im Agrarbereich"
+   }
+  ],
+  "text": "Robbe ist ein Familienunternehmen, das seit 1932 im Agrarbereich tätig ist. Mit 125 Kollegen erzeugt der Betrieb Eier für Deutschland und die Nachbarländer – ein krisensicherer Arbeitsplatz in einem Betrieb, der weiter wächst."
+ },
+ "kunde_tab": "35 Robbe Geflügelhaltung",
+ "quelle": "https://robbe-gefluegel.green-careers.de",
+ "logo": "logo.png",
+ "hero_bild": "img/hero-stallanlage.jpg",
+ "bilder": [
+  "img/f1-freilauf.jpg",
+  "img/f2-stall.jpg",
+  "img/f4-weisse-hennen.jpg",
+  "img/f3-eier-paletten.jpg"
+ ]
+}
