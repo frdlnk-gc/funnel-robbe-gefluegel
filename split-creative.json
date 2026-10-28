@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-2-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-stallanlage.jpg",
+  "primary": "#9A0C14",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#9A0C14",
+  "kicker": "WIR SUCHEN DICH",
+  "headline": [
+   "Produktionsleiter",
+   "(m/w/d)"
+  ],
+  "subline": "Für unsere Farmen in Mecklenburg-Vorpommern und Sachsen.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.6
+  ]
+ },
+ {
+  "name": "creative-3-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-eier-paletten.jpg",
+  "primary": "#9A0C14",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN DICH",
+  "headline": [
+   "Produktionsleiter (m/w/d)"
+  ],
+  "checkliste": [
+   "Dienstwagen inkl. Privatnutzung",
+   "Unbefristet, flexible Arbeitszeiten",
+   "Intensive Einarbeitung – auch Quereinstieg"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.45
+  ]
+ }
+]

@@ -1,0 +1,35 @@
+{
+ "name": "creative-1-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-stall.jpg",
+  "img/foto-hd-freilauf.jpg",
+  "img/foto-hd-weisse-hennen.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.6
+  ],
+  [
+   0.5,
+   0.5
+  ]
+ ],
+ "primary": "#9A0C14",
+ "ink": "#3A0A0C",
+ "headline": [
+  "Produktionsleiter"
+ ],
+ "headline_zusatz": "(m/w/d) · unbefristet, Vollzeit",
+ "ort": "Farmen in MV & Sachsen",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
